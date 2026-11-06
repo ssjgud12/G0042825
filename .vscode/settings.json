@@ -1,0 +1,7 @@
+{
+  "chat.disableAIFeatures": true,
+  "terminal.integrated.initialHint": false,
+  "liveshare.autoShareTerminals": false,
+  "liveshare.autoShareServers": false,
+  "liveshare.shareExternalFiles": false
+}
